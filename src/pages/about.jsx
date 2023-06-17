@@ -313,7 +313,14 @@ export default function About() {
                   variant="primary"
                   className="group w-full tracking-widest ring-2 ring-indigo-400"
                 >
-                  See my projects
+                  See my Projects
+                </Button>
+                <Button
+                  href="/projects"
+                  variant="primary"
+                  className="group w-full tracking-widest ring-2 ring-indigo-400"
+                >
+                  See my Blog
                 </Button>
               </ul>
             </div>
