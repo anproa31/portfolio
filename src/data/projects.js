@@ -41,7 +41,7 @@ const data = [
     techUsed: ['Flutter', 'Figma'],
     image: shoesly,
     link: 'https://github.com/anproa31/Shoesly_UI_tutorial',
-    github: '',
+    github: 'https://github.com/anproa31/Shoesly_UI_tutorial',
   },
   {
     title: 'Pacman Game',
