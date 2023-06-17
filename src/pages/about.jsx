@@ -316,7 +316,7 @@ export default function About() {
                   See my Projects
                 </Button>
                 <Button
-                  href="/projects"
+                  href="https://an-buiii-blog.vercel.app/"
                   variant="primary"
                   className="group w-full tracking-widest ring-2 ring-indigo-400"
                 >
