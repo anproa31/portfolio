@@ -35,7 +35,7 @@ const data = [
     github: 'https://github.com/anproa31/covid_treatment',
   },
   {
-    title: 'Shoes Ecommerce Website',
+    title: 'Shoes Ecommerce App',
     description:
       'An UI Ecommerce website for shoes built using Flutter.',
     techUsed: ['Flutter', 'Figma'],
